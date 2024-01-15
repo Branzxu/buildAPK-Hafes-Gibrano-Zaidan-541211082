@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.hafes.snack0abddfaa2da74888bc86be3ccc2eeb3f"
     },
     "web": {
       "favicon": "./assets/favicon.png"
